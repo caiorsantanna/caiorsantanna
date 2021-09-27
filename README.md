@@ -19,7 +19,7 @@
     </td>
   </tr>
   <tr>
-    <td>1976. Colored</td>
+    <td>1856. Colored</td>
   </tr>
 </table>
 
