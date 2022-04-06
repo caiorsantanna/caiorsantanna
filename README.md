@@ -25,22 +25,6 @@
 
 <table height="25px"></table>
 
-<table border="0px">
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=caiorsantanna" alt="caiorsantanna" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=caiorsantanna&show_icons=true&locale=en" alt="caiorsantanna" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=caiorsantanna&" alt="caiorsantanna" /></td>
-  </tr>
-</table>
-
-<table height="25px"></table>
-
 <h3 align="left">Languages and Tools:</h3>
 <table border="0px">
   <tr>
