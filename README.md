@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td width="65%">
-      <img src="https://user-images.githubusercontent.com/26316189/134946586-a23049f6-c565-4ea5-b80c-b35eef93634f.png" alt="caiorsantanna" />
+      <img src="https://user-images.githubusercontent.com/26316189/161986074-73fa3677-05a0-475e-94d5-aadd3e155535.png" alt="caiorsantanna" />
     </td>
   </tr>
   <tr>
