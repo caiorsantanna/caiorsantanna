@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">I'm Caio!</h1>
-<h3 align="center">A fullstack developer at Field Control, from Brazil!</h3>
+<h3 align="center">A Tech Lead at Field Control, from Brazil!</h3>
 
 <table height="25px"></table>
 
